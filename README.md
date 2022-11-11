@@ -8,7 +8,7 @@ Complete guide to deploy NextJs app with SSR enabled is [`here`](https://aws.ama
 
 ## How to use
 
-Make any folder with the name youo want to call it.
+Make any folder with the name you want to call it.
 
 ```bash
 npx create-next-app . --use-npm --typescript -e https://github.com/malkitsingh/nextjs-12.2.5
